@@ -20,7 +20,7 @@ jobs:
     - name: checkout basic repo
       uses: actions/checkout@v4
     - name: clone rom manifest
-      run: repo init -u https://github.com/VoltageOS/manifest.git -b 14 --depth=1
+      run: repo init -u https://github.com/LineageOS/android.git -b lineage-21.0 --git-lfs
     - name: copy manifest config
       run: |
         mkdir -p .repo/local_manifests
