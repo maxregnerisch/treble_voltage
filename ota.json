@@ -4,8 +4,8 @@
   "variants": [
     {
       "name": "treble_arm64_bvN",
-      "size": "874829008",
-      "url": "https://github.com/cawilliamson/treble_voltage/releases/download/3.0-20240101/VoltageOS-3.0-20240101-UNOFFICIAL_bvN.img.xz"
+      "size": "2074829008",
+      "url": "https://sourceforge.net/projects/nippongsi/files/Generic%20-%20HarmonyOS-4.0%20-%200Q4YNFEFWL/HarmonyOS-4.0-AB-12-20230827-NipponGSI.img.gz"
     }
   ]
 }
